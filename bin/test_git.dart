@@ -6,4 +6,6 @@ void main(List<String> arguments) {
   //salom
 
   print('Hello world: ${test_git.calculate()}!');
+
+  // test from andijan
 }
